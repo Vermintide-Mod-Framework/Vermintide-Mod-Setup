@@ -1,1 +1,3 @@
 Extract VMB contents to this folder and overwrite existing files.
+
+Make sure vmb.exe is in this folder.
